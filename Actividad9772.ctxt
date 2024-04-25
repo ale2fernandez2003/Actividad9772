@@ -4,6 +4,6 @@ comment0.text=\r\n\ Write\ a\ description\ of\ class\ Actividad9772\ here.\r\n\ 
 comment1.params=
 comment1.target=Actividad9772()
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Actividad9772\r\n
-comment2.params=palabra\ numero
+comment2.params=palabras\ numero
 comment2.target=int\ cuantasPalabrasHayDeNLetras(java.util.ArrayList,\ int)
 numComments=3

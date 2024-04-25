@@ -19,8 +19,15 @@ public class Actividad9772
     }
 
    
-    public int cuantasPalabrasHayDeNLetras(ArrayList<String> palabra, int numero){
+    public int cuantasPalabrasHayDeNLetras(ArrayList<String> palabras, int numero){
         int count = 0;
+        
+        for (String palabra : palabras) {
+            if (palabra.length() == numero) {
+                count++;
+            }
+        }
+        
         return count;
     }
 }
